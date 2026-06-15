@@ -21,7 +21,7 @@ export const siteConfig = {
   bio:
     "I'm a full stack developer specialising in modern JavaScript — React, Next.js, and Node.js — with a strong focus on clean UI, secure APIs, and scalable architecture. Whether it's a marketing site, an internal dashboard, or a full product build, I work closely with clients to ship reliable software on time.",
   location: "India",
-  email: "sureshzenwebworks@gmail.com",
+  email: "suresh.zenwebworks@gmail.com",
   phone: "+91 00000 00000",
   availability: "Available for freelance projects",
 };
