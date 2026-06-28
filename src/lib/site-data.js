@@ -20,7 +20,7 @@ export const siteConfig = {
     "I build modern, scalable, and high-performance web applications for startups, businesses, and entrepreneurs. From landing pages and business websites to full-featured SaaS platforms, I create fast, reliable solutions that help brands grow online.",
   bio:
     "I'm a full stack developer specialising in modern JavaScript — React, Next.js, and Node.js — with a strong focus on clean UI, secure APIs, and scalable architecture. Whether it's a marketing site, an internal dashboard, or a full product build, I work closely with clients to ship reliable software on time.",
-  location: "India",
+  location: "Chennai, India",
   email: "suresh.zenwebworks@gmail.com",
   phone: "+91 00000 00000",
   availability: "Available for freelance projects",
@@ -55,6 +55,7 @@ export const skillGroups = [
       { name: "React", icon: "react" },
       { name: "Next.js", icon: "nextjs" },
       { name: "Tailwind CSS", icon: "tailwind" },
+      { name: "Material UI", icon: "materialui" },
     ],
   },
   {
@@ -65,8 +66,8 @@ export const skillGroups = [
       { name: "Express", icon: "express" },
       { name: "MongoDB", icon: "mongodb" },
       { name: "PostgreSQL", icon: "postgres" },
-      { name: "Prisma", icon: "prisma" },
       { name: "Firebase", icon: "firebase" },
+      { name: "Prisma", icon: "prisma" },
     ],
   },
   {
@@ -75,9 +76,8 @@ export const skillGroups = [
     skills: [
       { name: "Git", icon: "git" },
       { name: "GitHub", icon: "github" },
-      { name: "AI", icon: "ai" },
       { name: "Docker", icon: "docker" },
-      { name: "Figma", icon: "figma" },
+      { name: "Linux", icon: "linux" },
       { name: "VS Code", icon: "vscode" },
       { name: "Postman", icon: "postman" },
     ],
@@ -112,7 +112,7 @@ export const projects = [
   {
     title: "IIFM Global Verification System",
     description:
-      "A lightweight CRM for managing leads, clients, and follow-ups, with role-based permissions and real-time status updates for sales teams.",
+      "A secure, scalable verification platform for validating academic credentials and certifications. manage candidate records through secure admin dashboard.",
     image: "/images/projects/IIFM-Global-Verification.png",
     tags: ["React", "Vite", "Firebase", "Material UI"],
     liveUrl: "https://verify.iifmacademy.com/",
