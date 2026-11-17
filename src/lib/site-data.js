@@ -27,7 +27,7 @@ export const siteConfig = {
 };
 
 export const socialLinks = [
-  { name: "GitHub", href: "https://github.com/zenwebworks", icon: "github" },
+  { name: "GitHub", href: "", icon: "github" },
   { name: "Instagram", href: "https://www.instagram.com/zen.web.works", icon: "instagram" },
 ];
 
@@ -108,6 +108,16 @@ export const projects = [
     liveUrl: "https://www.iifmacademy.com/",
     codeUrl: "#",
     featured: false,
+  },
+ {
+  title: "Ramshel Global Trade – Import & Export Website",
+  description:
+    "A modern business website for a global import-export company, showcasing product categories, international sourcing, import and export services, and custom packaging solutions. Designed to connect Indian suppliers with global buyers through an intuitive product catalogue and business enquiry platform.",
+  image: "/images/projects/Ramshel-Global-Trade.png",
+  tags: ["Next.js", "React", "Tailwind CSS", "JavaScript"],
+  liveUrl: "https://import-export-website-v2.vercel.app/",
+  codeUrl: "#",
+  featured: false,
   },
   {
     title: "IIFM Global Verification System",
